@@ -1,0 +1,26 @@
+body {
+  background-color: teal;
+}
+
+.fruit {
+  position: relative;
+  display: inline;
+}
+
+#shop {
+  display: inline;
+  position: relative;
+  float: left;
+  width: 63%;
+  border: 2px solid blue;
+  overflow: visible;
+}
+
+#cart {
+  display: inline;
+  position: relative;
+  float: right;
+  width: 33%;
+  border: 2px solid blue;
+  padding: 3px;
+}
